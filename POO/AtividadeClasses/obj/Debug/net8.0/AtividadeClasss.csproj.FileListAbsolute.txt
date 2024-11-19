@@ -1,0 +1,5 @@
+C:\Users\52233446852\Desktop\aula-backend\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52233446852\Desktop\aula-backend\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasss.AssemblyInfoInputs.cache
+C:\Users\52233446852\Desktop\aula-backend\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasss.AssemblyInfo.cs
+C:\Users\52233446852\Desktop\aula-backend\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasss.csproj.CoreCompileInputs.cache
+C:\Users\52233446852\Desktop\aula-backend\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasss.sourcelink.json
